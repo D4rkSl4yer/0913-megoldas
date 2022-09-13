@@ -1,0 +1,8 @@
+C:\Users\gerlei.ferdinand\source\repos\SpaceShuttle\SpaceShuttle\bin\Debug\SpaceShuttle.exe.config
+C:\Users\gerlei.ferdinand\source\repos\SpaceShuttle\SpaceShuttle\bin\Debug\SpaceShuttle.exe
+C:\Users\gerlei.ferdinand\source\repos\SpaceShuttle\SpaceShuttle\bin\Debug\SpaceShuttle.pdb
+C:\Users\gerlei.ferdinand\source\repos\SpaceShuttle\SpaceShuttle\obj\Debug\SpaceShuttle.csproj.AssemblyReference.cache
+C:\Users\gerlei.ferdinand\source\repos\SpaceShuttle\SpaceShuttle\obj\Debug\SpaceShuttle.csproj.SuggestedBindingRedirects.cache
+C:\Users\gerlei.ferdinand\source\repos\SpaceShuttle\SpaceShuttle\obj\Debug\SpaceShuttle.csproj.CoreCompileInputs.cache
+C:\Users\gerlei.ferdinand\source\repos\SpaceShuttle\SpaceShuttle\obj\Debug\SpaceShuttle.exe
+C:\Users\gerlei.ferdinand\source\repos\SpaceShuttle\SpaceShuttle\obj\Debug\SpaceShuttle.pdb
